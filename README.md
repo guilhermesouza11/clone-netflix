@@ -36,9 +36,9 @@ Observação: O projeto irá se inicializar na porta: 3000, caso não abra sozin
 
 <a href="https://github.com/guilhermesouza11">
 
-  <img src="https://avatars.githubusercontent.com/u/48285600?s=60&amp;v=4" alt="@guilhermesouza11" data-view-component="true" widht:="100px;"> 
+  <img src="https://avatars3.githubusercontent.com/u/48285600?s=60&amp;v=4" alt="@guilhermesouza11" data-view-component="true" widht:="100px;"> 
 
-<br />
+<br>
 
  <sub><b>Guilherme Souza</b></sub>
 
@@ -46,14 +46,10 @@ Observação: O projeto irá se inicializar na porta: 3000, caso não abra sozin
 
 <a href="https://github.com/guilhermesouza11"> ✌</a>
 
+
+
 Feito com ❤️ por Guilherme 👋🏽 Entre em contato!
 
-
-
-[![Instagram Badge](https://img.shields.io/badge/@nastyboygui-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/nastyboygui/)](https://www.instagram.com/nastyboygui/) 
-
-[![Gmail Badge](https://img.shields.io/badge/guilhermesouzadossantos11@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:guilhermesouzadossantos11@gmail.com)](mailto:guilhermesouzadossantos11@gmail.com)
-
-[![Linkedin Badge](https://img.shields.io/badge/Guilherme-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermesouzadossantos/)](https://www.linkedin.com/in/guilhermesouzadossantos/) 
+[![Instagram Badge](https://img.shields.io/badge/@nastyboygui-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/nastyboygui/)](https://www.instagram.com/nastyboygui/) [![Gmail Badge](https://img.shields.io/badge/guilhermesouzadossantos11@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:guilhermesouzadossantos11@gmail.com)](mailto:guilhermesouzadossantos11@gmail.com)[![Linkedin Badge](https://img.shields.io/badge/Guilherme-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermesouzadossantos/)](https://www.linkedin.com/in/guilhermesouzadossantos/) 
 
 <img src="https://avatars.githubusercontent.com/u/48285600?s=60&amp;v=4" alt="@guilhermesouza11" data-view-component="true" widht:="100px;">
